@@ -1,4 +1,4 @@
-## **Improving the user experience of an AI-powered travel planning platform** 
+# **Improving the user experience of an AI-powered travel planning platform** 
 
 Evaluative UX Research Study 
 
