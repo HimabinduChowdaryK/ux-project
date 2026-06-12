@@ -123,13 +123,17 @@ The most frequently reported issue was the sheer number of options presented dur
 ## **7.2 Feature Redundancy Created Navigation Confusion** 
 
 Several modules appeared to offer overlapping functionality. Participants struggled to determine which module to use for a given task, could not clearly distinguish between planning-related features, and were uncertain about the intended end-toend workflow leading to inefficient navigation. 
-
+<p align="center">
+  <img src="images/Picture1.png" alt="Choice Overload Screenshot" width="300">
+</p>
 _Fig. 1 — ‘Plan trip with Bobo’ and ‘Explore AI curated feed’ appear as separate home-screen tiles, despite users perceiving them as the same feature._ 
 
 ## **7.3 AI Response Times Affected Satisfaction** 
 
 When itinerary generation took longer than expected, participants interpreted the delay as system unreliability or poor performance rather than normal AI processing time. In follow-up testing, Bobo AI's ‘Generate Experience’ step expected to take roughly 3 minutes failed to complete even after 10+ minutes for multiple users, directly preventing task completion. 
-
+<p align="center">
+  <img src="images/Picture2.png" alt="Choice Overload Screenshot" width="300">
+</p>
 _Fig. 2 — The ‘Plan with Bobo AI’ screen promises a trip plan in 3 minutes; in testing, this step did not complete even after 10+ minutes, undermining trust in the AI experience._ 
 
 ## **7.4 Search and Booking Issues Reduced Trust** 
